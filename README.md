@@ -1,4 +1,4 @@
-# 🎨 Code Snippet Beautifier
+# 🎨 Code Snippet Screenshot
 
 A simple and elegant web app to generate beautiful images of your code snippets — perfect for sharing on social media, presentations, or your portfolio!
 
@@ -28,6 +28,6 @@ A simple and elegant web app to generate beautiful images of your code snippets 
 
 ```bash
 git clone https://github.com/samarthhh-19/code-screenshot.git
-cd code-snippet-beautifier
+cd code-screenshot
 npm install
 npm start
